@@ -1,0 +1,120 @@
+/* 
+@media screen and (max-width: 600px) and (min-width: 320px) {
+    .logincontainer{
+        box-sizing: border-box;
+        height: auto;
+        width: auto;
+        margin: 10px;
+    }
+    .uldiv{
+        text-align: center;
+        background-color: blue;
+        margin-right: 30px;
+        border: 1px solid green;
+        border-radius: 30px;
+        padding: 10px;
+        color: white;
+    }
+    li{
+        list-style-type: none;
+        padding: 10px;
+        font-weight: 500;
+        
+    }
+    .instyle{
+        margin: 10px;
+        padding: 5px;
+        width: 75%;
+        border-radius: 2px;
+    }
+    .btn{
+        padding: 13px;
+        border: 1px solid green;
+        border-radius: 30px;
+        background: green;
+        color: white;
+        width: 150px;
+        margin-left: 100px;
+    }
+} 
+@media screen and (min-width:601px) and (max-width:1000px){
+    .logincontainer{
+        box-sizing: border-box;
+        height: auto;
+        width: auto;
+        margin: 10px 0 10px;
+    }
+    .uldiv{
+        padding: 5px;
+        text-align: center;
+        border: 1px solid green;
+        border-radius: 40px;
+        color: brown;
+        background-color: khaki;
+        font-size: 20px;
+        font-family: auto;
+        margin-right: 30px;
+    }
+    li{
+        list-style-type: none;
+        padding: 10px;
+        font-weight: 500;
+    }
+    .instyle{
+        margin: 10px;
+        padding: 5px;
+        width: 75%;
+        border-radius: 2px;
+    }
+    .btn{
+        padding: 13px;
+        border: 1px solid green;
+        border-radius: 30px;
+        background: green;
+        color: white;
+        width: 206px;
+        margin-left: 215px
+    }
+}
+@media screen and (min-width: 1001px)  {
+    .logincontainer{
+        box-sizing: border-box;
+        height: auto;
+        width: auto;
+        margin: 10px;
+    }
+    .uldiv{
+        margin-left: 500px;
+        padding: 5px;
+        text-align: center;
+        border: 1px solid green;
+        border-radius: 40px;
+        color: brown;
+        background-color: khaki;
+        font-size: 20px;
+        font-family: auto;
+        max-width: 250px;
+        margin-top: 30px;
+    }
+    li{
+        list-style-type: none;
+        padding: 10px;
+        font-weight: 500;
+        margin-left: 510px;
+    }
+    .instyle{
+        margin: 10px;
+        padding: 5px;
+        width: 25%;
+        border-radius: 2px;
+    }
+    .btn{
+        padding: 13px;
+        border: 1px solid green;
+        border-radius: 30px;
+        background: green;
+        color: white;
+        width: 130px;
+        margin-left: 600px;
+    }
+}  */

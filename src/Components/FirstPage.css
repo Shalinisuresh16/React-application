@@ -1,0 +1,21 @@
+
+.img{
+    height: 100px;
+    max-width: 200%
+}
+.navcontainer{
+    height: 200px;
+    width:200px;
+    background-color: lightblue;
+}
+.navinside{
+    padding:20px;
+    margin:3px;
+    font-family: 'Lucida Sans';
+    font-size: 30px;
+    font-weight: 500;
+
+}
+.abc{
+    color: red;
+}

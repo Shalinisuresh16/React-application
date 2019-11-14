@@ -1,0 +1,21 @@
+.popup_container{
+    box-sizing: border-box;
+    width: 545px;
+    height: 310px;
+    border: 1px solid red;
+    display: block;
+    margin: 10px;
+    border-radius: 5px;
+    position: relative;
+    margin-left: 412px;
+    top: -378px;
+    .popup_btn{
+        position: absolute;
+        top: 87%;
+        margin-left: 425px;
+        height: 30px;
+        width: 90px;
+        text-align: center;
+        background-color: mediumaquamarine;
+    }
+}
