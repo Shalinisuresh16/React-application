@@ -7,6 +7,7 @@ const products=test.Product;
 
 const HEAD = 'HOME';
 const LOGIN = 'LOGIN';
+const LOGOUT='LOGOUT';
 
 class Perfume extends PureComponent{
     constructor(props){
